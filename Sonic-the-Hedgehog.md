@@ -16,3 +16,5 @@ Sonic the hedgehog is a blue anthropomorphic hedgehog with super-speed, an affin
 ![Sonic Picture](https://tse1.mm.bing.net/th?id=OIP.GwAy92z6vu7DzDkQJPv0rgHaKp&pid=Api)
 
 [Link to the offical Sonic the Hedgehog site](https://www.sonicthehedgehog.com/)
+
+Approved by Austin Hutchins 
